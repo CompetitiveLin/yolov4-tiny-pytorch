@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>53.jpg</filename>
+	<path>/home/mustang/img/53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>label2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>224</ymin>
+			<xmax>253</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>15.jpg</filename>
+	<path>/home/mustang/img/15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>label7</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>213</ymin>
+			<xmax>176</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

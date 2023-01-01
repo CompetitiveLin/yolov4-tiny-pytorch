@@ -1,0 +1,14 @@
+<annotation>
+	<folder>img</folder>
+	<filename>78.jpg</filename>
+	<path>/home/mustang/img/78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
