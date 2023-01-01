@@ -8,6 +8,6 @@ The competition is held by [Chinese Association of Automation](http://imap.caa.o
 
 Rules are [here](https://zhuoqing.blog.csdn.net/article/details/118612201).
 
-Results are [here](https://blog.csdn.net/zhuoqingjoking97298/article/details/119879792).
+[Result](https://blog.csdn.net/zhuoqingjoking97298/article/details/119879792): **National First Prize**.
 
 Good luck!
